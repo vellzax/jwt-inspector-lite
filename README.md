@@ -1,2 +1,3 @@
-# jwt-inspector-lite
-Client-side offline JWT decoder, claims inspector, and signature analyzer.
+# JWT Inspector Lite
+
+100% offline and secure JWT payload analysis tool.
